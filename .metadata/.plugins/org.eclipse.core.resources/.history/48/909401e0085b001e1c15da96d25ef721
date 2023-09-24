@@ -1,0 +1,6 @@
+package com.emailservice.adapters;
+
+public interface EmailSenderGateway {
+	void S
+	sendEmail(String to, String subject, String body)
+}
