@@ -1,0 +1,5 @@
+package com.emailservice.infra.ses;
+
+public class SesEmailSender {
+
+}
